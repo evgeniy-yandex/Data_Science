@@ -18,3 +18,4 @@
 |14.|Анализ данных о фондах и инвестициях|Анализ и выполнение запросов к базе данных о венчурных фондах и инвестициях в компании-стартапы. Результаты исследования позволят детальнее изучить экосистему стартапов.|[FUNDS_INVESTMENTS.md](./data_science_17_SQL_DATA_FUNDS_INVESTMENTS/README_17_SQL_INVESTMENT_FUNDS.md)|[FUNDS_INVESTMENTSipynb](./data_science_17_SQL_DATA_FUNDS_INVESTMENTS/ds_sprint_17_SQL_INVESTMENT_FUNDS.ipynb)|SQL|
 |15.|Определение возраста покупателей по фото|Определение по фотографии приблизительного возраста человека для сетевого супермаркета.|[AGE_PERSON.md](./data_science_18_computer_vision_AGE_PERSON/README_18_AGE_PERSON.md)|[AGE_PERSON.ipynb](./data_science_18_computer_vision_AGE_PERSON/ds_sprint18_computer_vision_final.ipynb)|pandas, matplotlib, tensorflow|
 |16.||||||					
+|17.||||||	
