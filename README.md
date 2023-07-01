@@ -1,6 +1,6 @@
 # Список проектов, реализованных в ходе обучения на курсе «Data Science» Яндекс-практикума.
 
-|№|Проект|Краткое описание|абочая тетрадь - Используемые библиотеки|
+|№|Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
 |---|---|---|---|
 |1.|[Музыка больших городов](./data_science_03_basic_MUSIC_MOSCOW_SPB/README_03_MUSIC_MOSCOW_SPB.md "README.md")|Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга|[MUSIC.ipynb](./data_science_03_basic_MUSIC_MOSCOW_SPB/ds_sprint03_MUSIC_MOSCOW_SPB.ipynb "notebook.ipynb") - pandas|
 |2.|[Исследование надёжности заёмщиков](./data_science_04_data_preprocessing_RELIABILITY_BORROWERS/README_04_RELIABILITY_BORROWERS.md "README.md")|Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.|[BORROWERS.ipynb part-1](./data_science_04_data_preprocessing_RELIABILITY_BORROWERS/ds_sprint04_n1_data_preprocessing_RELIABILITY_BORROWERS.ipynb "notebook1.ipynb") [BORROWERS.ipynb part-2](./data_science_04_data_preprocessing_RELIABILITY_BORROWERS/ds_sprint04_n2_data_preprocessing_RELIABILITY_BORROWERS.ipynb "notebook2.ipynb")- pandas|
