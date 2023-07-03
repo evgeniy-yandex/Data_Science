@@ -2,7 +2,6 @@
 
 |№|Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
 |---|---|---|---|
-
 |15.|[Определение возраста покупателей по фото](./data_science_18_computer_vision_AGE_PERSON/README_18_AGE_PERSON.md)|Определение по фотографии приблизительного возраста человека для сетевого супермаркета.|[AGE_PERSON.ipynb](./data_science_18_computer_vision_AGE_PERSON/ds_sprint18_computer_vision_final.ipynb) - pandas, matplotlib, tensorflow|
 |14.|[Анализ данных о фондах и инвестициях](./data_science_17_SQL_DATA_FUNDS_INVESTMENTS/README_17_SQL_INVESTMENT_FUNDS.md)|Анализ и выполнение запросов к базе данных о венчурных фондах и инвестициях в компании-стартапы. Результаты исследования позволят детальнее изучить экосистему стартапов.|[FUNDS_INVESTMENTSipynb](./data_science_17_SQL_DATA_FUNDS_INVESTMENTS/ds_sprint_17_SQL_INVESTMENT_FUNDS.ipynb) - SQL|
 |13.|[Классификация комментариев Клиентов на позитивные и негативные](./data_science_16_ML_for_texts_TOXIC_WORDS/README_16_TOXIC_WORDS.md)|Классификация комментариев по работе интернет-магазина на позитивные и негативные с целью выявления токсичных комментариев и отправки их на модерацию.|[TOXIC_WORDS.ipynb](./data_science_16_ML_for_texts_TOXIC_WORDS/ds_sprint16_TOXIC_WORDS.ipynb) - pandas, numpy, matplotlib, tqdm, nltk, sklearn, lightgbm, seaborn, xgboost|
