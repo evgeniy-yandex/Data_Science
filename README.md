@@ -19,4 +19,4 @@
 |2.|[Исследование надёжности заёмщиков](./projects/README_04_RELIABILITY_BORROWERS.md "README.md")|Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.|[BORROWERS.ipynb part-1](./projects/ds_sprint_04_n1_data_preprocessing_RELIABILITY_BORROWERS.ipynb "notebook1.ipynb") [BORROWERS.ipynb part-2](./projects/ds_sprint_04_n2_data_preprocessing_RELIABILITY_BORROWERS.ipynb "notebook2.ipynb")- pandas|
 |1.|[Музыка больших городов](./projects/README_03_MUSIC_MOSCOW_SPB.md "README.md")|Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга|[MUSIC.ipynb](./projects/ds_sprint_03_MUSIC_MOSCOW_SPB.ipynb "notebook.ipynb") - pandas|
 
-[Об авторе](Bessonov_Evgeny_DS.pdf) 
+[Об авторе](./Bessonov_Evgeny_DS.pdf) 
