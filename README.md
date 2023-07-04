@@ -2,7 +2,7 @@
 
 |№|Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
 |---|---|---|---|
-|16.|[Определение температуры выплавляемой на металлургическом заводе стали](./projects/README_20_STEEL.md)|Для задачи энергобережливости нкжно предсказать температуру выплавляемой стали.|[AGE_PERSON.ipynb](./projects/ds_sprint_20_final_project_STEEL.ipynb) - pandas, matplotlib, tensorflow|
+|16.|[Определение температуры выплавляемой на металлургическом заводе стали](./projects/README_20_STEEL.md)|Для задачи энергосбережения требуется предсказать температуру выплавляемой стали.|[STEEL_final_project.ipynb](./projects/ds_sprint_20_STEEL_final_project.ipynb) - pandas, matplotlib, tensorflow|
 |15.|[Определение возраста покупателей по фото](./projects/README_18_AGE_PERSON.md)|Определение по фотографии приблизительного возраста человека для сетевого супермаркета.|[AGE_PERSON.ipynb](./projects/ds_sprint_18_AGE_PERSON_computer_vision.ipynb) - pandas, matplotlib, tensorflow|
 |14.|[Анализ данных о фондах и инвестициях](./projects/README_17_SQL_INVESTMENT_FUNDS.md)|Анализ и выполнение запросов к базе данных о венчурных фондах и инвестициях в компании-стартапы. Результаты исследования позволят детальнее изучить экосистему стартапов.|[FUNDS_INVESTMENTSipynb](./projects/ds_sprint_17_SQL_INVESTMENT_FUNDS.ipynb) - SQL|
 |13.|[Классификация комментариев Клиентов на позитивные и негативные](./projects/README_16_TOXIC_WORDS.md)|Классификация комментариев по работе интернет-магазина на позитивные и негативные с целью выявления токсичных комментариев и отправки их на модерацию.|[TOXIC_WORDS.ipynb](./projects/ds_sprint_16_TOXIC_WORDS.ipynb) - pandas, numpy, matplotlib, tqdm, nltk, sklearn, lightgbm, seaborn, xgboost|
@@ -18,3 +18,5 @@
 |3.|[Исследование объявлений о продаже квартир](./projects/README_05_REAL_ESTATE_SPB.md "README.md")|На основании архива объявлений за несколько лет о продаже квартир в Санкт-Петербурге и соседних населённых пунктах найти интересные особенности и зависимости, которые существуют на рынке недвижимости.|[REAL_ESTAT.ipynb](./projects/ds_sprint_05_REAL_ESTATE_SPB.ipynb "notebook.ipynb") - pandas|
 |2.|[Исследование надёжности заёмщиков](./projects/README_04_RELIABILITY_BORROWERS.md "README.md")|Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.|[BORROWERS.ipynb part-1](./projects/ds_sprint_04_n1_data_preprocessing_RELIABILITY_BORROWERS.ipynb "notebook1.ipynb") [BORROWERS.ipynb part-2](./projects/ds_sprint_04_n2_data_preprocessing_RELIABILITY_BORROWERS.ipynb "notebook2.ipynb")- pandas|
 |1.|[Музыка больших городов](./projects/README_03_MUSIC_MOSCOW_SPB.md "README.md")|Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга|[MUSIC.ipynb](./projects/ds_sprint_03_MUSIC_MOSCOW_SPB.ipynb "notebook.ipynb") - pandas|
+
+[Об авторе](Bessonov_Evgeny_DS.pdf) 
