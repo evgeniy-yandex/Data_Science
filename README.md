@@ -1,7 +1,7 @@
 # Список проектов, реализованных на платформе Kaggle.
 |№|Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
 |---|---|---|---|
-|1.|[Определение стоимости автомобилей](./Kaggle_auto_price/README.md "README.md")|Определение рыночной стоимости автомобиля по данным, содержащим его информацию по ппроизводителям, продавцам и номер VIN.|[auto_price.ipynb](./Kaggle_auto_price/kaggle_auto_price.ipynb "notebook.ipynb") - pandas, numpy, matplotlib, seaborn, skimpy, sklearn, pickle, skim, pipeline, linearregression, decisiontree, randonforest, gradientboosting, lightgbm, catboost, xgboost|
+|1.|[Определение стоимости автомобилей](./Kaggle_auto_price/README.md "README.md")|Определение рыночной стоимости автомобиля по данным, содержащим его информацию по производителям, продавцам и номер VIN.|[auto_price.ipynb](./Kaggle_auto_price/kaggle_auto_price.ipynb "notebook.ipynb") - pandas, numpy, matplotlib, seaborn, skimpy, sklearn, pickle, skim, pipeline, linearregression, decisiontree, randonforest, gradientboosting, lightgbm, catboost, xgboost|
 
 
 # Список проектов, реализованных в ходе обучения на курсе «Data Science» Яндекс-практикума.
