@@ -1,7 +1,14 @@
+# Список PET-проектов
+|№|Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
+|---|---|---|---|
+|2.|[Прогнозирование оттока клиентов для телекоммуникационной компании](./telecom/README.md "README.md")|Оператор связи хочет научиться прогнозировать отток клиентов. Расчёт проводился по персональным данным клиентов, информации об их тарифах и договорах.|[telecom.ipynb](./Telecom/telecom.ipynb "notebook.ipynb") - pandas, numpy, matplotlib, seaborn, skimpy, sklearn, pickle, pipeline, GridSearchCV, LogicticRegression, DecisionTree, RandomForest, GradientBoosting, LightGMB, CatBoost, XGBoost|
+|1.|[Проверка работы оборудования и регистрации респондентов, пользующихся услугами телевизионного вещания.](./TV_viewers/README.md "README.md")|Проверяется, кто из респондентов находится в комнате с включенным телевизором. Затем результаты опроса сравниваются с результатами измерения автоматической аппаратуры.|[TV_viewers.ipynb](./TV_viewers/TV_viewers.ipynb "notebook.ipynb") - pandas, numpy, matplotlib, seaborn, skimpy, datetime|
+
+
 # Список проектов, реализованных на платформе Kaggle.
 |№|Проект|Краткое описание|Рабочая тетрадь - Используемые библиотеки|
 |---|---|---|---|
-|1.|[Определение стоимости автомобилей](./Kaggle_auto_price/README.md "README.md")|Определение рыночной стоимости автомобиля по данным, содержащим его информацию по производителям, продавцам и номер VIN.|[auto_price.ipynb](./Kaggle_auto_price/kaggle_auto_price.ipynb "notebook.ipynb") - pandas, numpy, matplotlib, seaborn, skimpy, sklearn, pickle, skim, pipeline, linearregression, decisiontree, randonforest, gradientboosting, lightgbm, catboost, xgboost|
+|1.|[Определение стоимости автомобилей](./Kaggle_auto_price/README.md "README.md")|Определение рыночной стоимости автомобиля по данным, содержащим его информацию по производителям, продавцам и номер VIN.|[auto_price.ipynb](./Kaggle_auto_price/kaggle_auto_price.ipynb "notebook.ipynb") - pandas, numpy, matplotlib, seaborn, skimpy, sklearn, pickle, pipeline, GridSearchCV, LinearRegression, DecisionTree, RandomForest, GradientBoosting, LightGMB, CatBoost, XGBoost|
 
 
 # Список проектов, реализованных в ходе обучения на курсе «Data Science» Яндекс-практикума.
