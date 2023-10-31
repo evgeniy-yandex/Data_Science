@@ -1,6 +1,6 @@
 # Прогноз количества заказов такси в период пиковой нагрузки.
    
-[BigData_PySpark_taxi.ipynb](BigData_PySpark_taxi.ipynb "notebook.ipynb")   
+[BigData_pySPARK_taxi.ipynb](BigData_pySPARK_taxi.ipynb "notebook.ipynb")   
 
 
 ## Описание проекта.
