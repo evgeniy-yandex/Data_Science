@@ -1,10 +1,10 @@
 # EDA-анализ распределения пользователей интернет-ресурсов.
 
 4 Части: 
-[Часть 1: test_analyst_1_4.html](test_analyst_1_4.html "html")
-[Часть 2: test_analyst_2_4.html](test_analyst_2_4.html "html")
-[Часть 3: test_analyst_3_4.html](test_analyst_3_4.html "html")
-[Часть 4: test_analyst_4_4.html](test_analyst_4_4.html "html")
+[Часть 1: test_analyst_1_4_dd.ipynb](test_analyst_1_4_dd.ipynb "test_analyst_1_4_dd.ipynb")
+[Часть 2: test_analyst_2_4_da.ipynb](test_analyst_2_4_da.ipynb "test_analyst_2_4_da.ipynb")
+[Часть 3: test analyst_3_4_dro.ipynb](test_analyst_3_4_dro.ipynb "test analyst_3_4_dro.ipynb")
+[Часть 4: test_analyst_4_4_r.ipynb](test_analyst_4_4_r.ipynb "test_analyst_4_4_r.ipynb")
 
 
 ## Описание проекта.
