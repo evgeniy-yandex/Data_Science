@@ -19,7 +19,7 @@
 * skimpy `skim`
 * scipy.stats `uniform`, `loguniform`
 * sklearn.preprocessing `StandardScaler`, `MinMaxScaler`
-* imblearn.over_sampling 'RandomOverSampler'
+* imblearn.over_sampling `RandomOverSampler`
 * sklearn.model_selection `GridSearchCV`
 * sklearn.model_selection `RandomizedSearchCV`
 * sklearn.metrics `roc_auc_score`
@@ -27,8 +27,8 @@
 * sklearn.metrics `roc_curve`
 * sklearn.linear_model `LogisticRegression`
 * sklearn.tree `DecisionTreeClassifier`
-* sklearn.ensemble 'RandomForestClassifier', 
-* sklearn.ensemble 'GradientBoostingClassifier',
+* sklearn.ensemble `RandomForestClassifier` 
+* sklearn.ensemble `GradientBoostingClassifier`
 * lightgbm `LGBMClassifier`
 * catboost `CatBoostClassifier`
 * xgboost.xgb `XGBClassifier`
