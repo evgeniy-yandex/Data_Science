@@ -1,7 +1,6 @@
 # Задача на мультиклассовую квалификацию. 
 
-
-[multi(3)-classes classifier.ipynb](multi(3)-classes classifier.ipynb "notebook.ipynb")
+[multi(3)-classes classifier.ipynb](multi(3)-classes_classifier.ipynb "notebook.ipynb")
 
 
 ## Описание проекта.
